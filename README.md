@@ -61,7 +61,3 @@ pnpm run release
 
 MIT License © 2025
 Made with ❤️ by [Dev Gaurav Jatt](https://github.com/devgauravjatt)
-
----
-
-Would you like to include a "Contributing" section or auto-generate badges like **version**, **downloads**, or **build status** from npm or GitHub Actions too?
