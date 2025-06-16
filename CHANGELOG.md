@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.2] - 2025-06-16
+
+### 🚀 Features
+
+- Changelog add
+
+### 💼 Other
+
+- V0.0.2
+
+### 📚 Documentation
+
+- Remove extra text
+
 ## [0.0.1] - 2025-06-16
 
 ### ⚙️ Miscellaneous Tasks
